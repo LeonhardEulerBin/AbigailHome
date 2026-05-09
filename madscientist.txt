@@ -1,0 +1,36 @@
+Cashola
+0 0 0 0 0 0 7 1
+Questdata
+          Get a job
+          Buy beans
+          Learn C
+          Hollow Knight
+          Cave Story
+          Fix this code
+Frineddata
+Frineddata0
+54 1 1 1 
+Frineddata1
+39 1 2 2 
+Frineddata2
+47 1 1 1 
+Frineddata3
+25 1 1 1 
+Frineddata4
+6 1 1 2 
+Scheddata
+Day0
+7 7 7 7 7 3 1 1 5 5 2 2 2 3 2 2 2 2 5 5 3 7 7 7 
+Day1
+7 7 7 7 7 3 1 1 5 5 2 2 2 3 2 2 2 2 5 5 3 7 7 7 
+Day2
+7 7 7 7 7 3 1 1 5 5 2 2 2 3 2 2 2 2 5 5 3 7 7 7 
+Day3
+7 7 7 7 7 3 1 1 5 5 2 2 2 3 2 2 2 2 5 5 3 7 7 7 
+Day4
+7 7 7 7 7 3 1 1 5 5 2 2 2 3 2 2 2 2 5 5 4 4 4 4 
+Day5
+7 7 7 7 7 7 7 7 3 1 1 4 4 4 3 0 0 0 2 2 3 7 7 7 
+Day6
+7 7 7 7 7 3 1 1 0 0 6 6 2 3 0 0 0 0 0 0 3 7 7 7 
+File End
